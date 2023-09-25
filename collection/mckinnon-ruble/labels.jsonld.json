@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204481",
+    "http://schema.org/name": "California--San Francisco"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214200",
+    "http://schema.org/name": "California--Sacramento County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1242791",
+    "http://schema.org/name": "California--Delta Region"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423689",
+    "http://schema.org/name": "Photography"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423831",
+    "http://schema.org/name": "Portraits"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/531720",
+    "http://schema.org/name": "Catholic Church--California--History"
+  }
+]

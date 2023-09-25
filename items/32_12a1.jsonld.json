@@ -1,0 +1,58 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1214200"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423689"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423831"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/531720"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1242791"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/dl"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1896-11-02"
+  },
+  "schema:identifier": [
+    "D-405, Box:Folder 32:12",
+    "ark:/87293/d32f7jw3x"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/32_12a1.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt087017c9/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Louise McKinnon (Sister Mary Emerentiana), Katherine McIssac, and Mary Elizabeth (Ruble) McKinnon, portrait.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "1896 November 2"
+}
