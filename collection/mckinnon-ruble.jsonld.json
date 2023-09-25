@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1242791"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214200"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1106107"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423831"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423689"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/531720"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204481"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2022"
+  },
+  "schema:description": "The McKinnon and Ruble Families collection includes records of a physician and rancher in the California Delta region during the late nineteenth and early twentieth centuries. Aloysius John McKinnon (1870-1933) was born in San Francisco to Daniel A. and Catherine MacDonald McKinnon. Aloysius had three older siblings: Louise (Sister Mary Emerentiana), Augustine (Brother V. Leo), and William Bernard. Circa 1890, Aloysius joined his family's well-established San Francisco lumber and shipping business, MacDonald and McKinnon. In 1900, while studying medicine at the University of California, Medical Department in San Francisco, Aloysius married Mary Elizabeth \"Lizzie\" Ruble (1875-1916). The couple had been introduced by Aloysius' cousins, St. Joseph's parish priests at the Delta farming community of Rio Vista, California, where the Ruble family resided. Aloysius received his medical degree in 1903 from the University of California. He and Lizzie maintained an apartment on Sanchez Street in the Mission District of San Francisco unti 1904 when they permanently relocated to Rio Vista. Dr. McKinnon practiced medicine from his Front Street office and later from an office in his Rio Vista home. \n\n These photographs are part of a larger collection. A complete inventory is available in the collection’s finding aid at the [Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt087017c9/).",
+  "schema:identifier": "D-405",
+  "schema:image": {
+    "@id": "@base:info:fedora/item/ark:/87293/d3tt4fz13/34_19a1.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt087017c9/"
+  },
+  "schema:name": "McKinnon and Ruble Families Papers",
+  "schema:publisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2022"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}
