@@ -12,11 +12,10 @@
   "@type": [
     "ucdlib:ImageList",
     "ldp:DirectContainer",
-    "schema:MediaObject",
-    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+    "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../dl"
+    "@id": "@base:../.."
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {
