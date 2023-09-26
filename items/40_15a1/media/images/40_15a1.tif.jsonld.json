@@ -12,7 +12,7 @@
   "@type": [
     "schema:ImageObject",
     "schema:CreativeWork",
-    "schema:MediaObject",
+    "schema:MediaObject"
   ],
   "schema:position": 1,
   "ebucore:filename": "40_15a1.tif",

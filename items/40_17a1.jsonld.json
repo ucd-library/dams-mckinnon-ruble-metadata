@@ -30,14 +30,14 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/dl"
+    "@id": "@base:/media/images"
   },
   "schema:identifier": [
     "D-405, Box:Folder 40:17",
     "ark:/87293/d3n29pb7k"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/40_17a1.jpg"
+    "@id": "@base:/media/images/40_17a1.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt087017c9/"

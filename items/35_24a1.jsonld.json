@@ -30,7 +30,7 @@
     }
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/dl"
+    "@id": "@base:/media/images"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
@@ -41,7 +41,7 @@
     "D-405, Box:Folder 35:24"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/35_24a1.jpg"
+    "@id": "@base:/media/images/35_24a1.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt087017c9/"
