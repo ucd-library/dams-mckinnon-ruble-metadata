@@ -12,10 +12,10 @@
   "@type": [
     "schema:ImageObject",
     "schema:CreativeWork",
-    "schema:MediaObject",
+    "schema:MediaObject"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:../39_12a.jpg"
+    "@id": "@base:../39_12a.tif"
   },
   "ebucore:filename": "39_12a.tif",
   "ebucore:hasMimeType": "image/tiff"
