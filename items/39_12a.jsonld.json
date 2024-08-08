@@ -40,9 +40,6 @@
     "D-405, Box:Folder 39:12",
     "ark:/87293/d38w3867d"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt087017c9/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
