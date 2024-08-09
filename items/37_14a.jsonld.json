@@ -37,12 +37,9 @@
     "@value": "1927?"
   },
   "schema:identifier": [
-    "D-405, Box:Folder 37:14",
+    "ark:/87287/d7r94j/D-405/Box:37+Folder:14",
     "ark:/87293/d3st7f22r"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt087017c9/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
